@@ -1,0 +1,100 @@
+#1498115229
+cp -r /home/pcc/exam ~
+#1498116008
+cd nums
+#1498116044
+nano shift.c
+#1498116091
+shift.c
+#1498116217
+nano shift.c
+#1498116286
+cd logical
+#1498116389
+uite
+#1498116397
+quite
+#1498116476
+cd nums
+#1498116596
+./blc shift.c
+#1498116683
+nano shift.c
+#1498116768
+cd exam
+#1498116777
+cdnums
+#1498116790
+cd nums
+#1498116802
+nano shift.c
+#1498117158
+gcc shift.c
+#1498117188
+make btest
+#1498117222
+./dlc shift.c
+#1498117296
+nano shift.c
+#1498117563
+gcc shift.c
+#1498117572
+run
+#1498117652
+./dlc bit.c
+#1498117681
+./dlc bits.c
+#1498117760
+./shift
+#1498117774
+gcc shift.c
+#1498117798
+./shift
+#1498117877
+./shift.c
+#1498117891
+./shift
+#1498118135
+cd  ..
+#1498118158
+logical
+#1498118173
+cd logical
+#1498118187
+nano bits.c
+#1498118554
+gcc bits.c
+#1498118567
+./bits
+#1498118609
+./ bits.c
+#1498118629
+nano bits.c
+#1498118643
+cd  ..
+#1498118667
+cd logical
+#1498118683
+nano sets.c
+#1498119014
+gcc sets.c
+#1498119050
+nano sets.c
+#1498119084
+gcc sets.c
+#1498119135
+cd  ..
+#1498119156
+cd instsys
+#1498119213
+gdb reg
+#1498120088
+gdb bomb
+#1498120411
+./bomb
+#1498121788
+cd exam
+#1498121796
+cd nums
+#1498121806
+nano shift.c

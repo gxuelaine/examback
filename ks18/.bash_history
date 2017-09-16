@@ -1,0 +1,210 @@
+#1498114812
+cp -r /home/pcc/exam ~
+#1498116049
+cp nums
+#1498116056
+cp -r /home/pcc/exam ~
+#1498116070
+cp nums
+#1498116128
+cd nums
+#1498116150
+cp -r /home/pcc/exam ~
+#1498116154
+cd nums
+#1498116447
+cd exam
+#1498116451
+cd nums
+#1498116693
+nano shift.c
+#1498116948
+run shirt.c
+#1498116956
+nano shift.c
+#1498117189
+run shirt.c
+#1498117272
+gcc shirt.c -o ks1
+#1498117280
+./ks1
+#1498117315
+gcc shift.c -o ks1
+#1498117316
+./ks1
+#1498117327
+nano shift.c
+#1498117345
+gcc shift.c -o ks1
+#1498117349
+./ks1
+#1498117354
+..
+#1498117359
+``
+#1498117361
+..
+#1498117368
+.
+#1498117370
+cd
+#1498117375
+cd exam
+#1498117386
+cd logical
+#1498117397
+nano bits.c
+#1498117509
+gcc bits.c -o ks2
+#1498117514
+./ks2
+#1498117532
+nano bits.c
+#1498117687
+./ks2
+#1498117700
+nano sets.c
+#1498118050
+gcc sets.c -o ks3
+#1498118052
+./ks3
+#1498118059
+nano sets.c
+#1498118104
+gcc sets.c -o ks3
+#1498118105
+./ks3
+#1498118108
+nano sets.c
+#1498118161
+gcc sets.c -o ks3
+#1498118163
+./ks3
+#1498118165
+nano sets.c
+#1498118322
+gcc sets.c -o ks3
+#1498118326
+./ks3
+#1498118331
+nano sets.c
+#1498118345
+gcc sets.c -o ks3
+#1498118347
+./ks3
+#1498118364
+nano sets.c
+#1498118465
+gcc sets.c -o ks3
+#1498118466
+./ks3
+#1498118468
+nano sets.c
+#1498118601
+gcc sets.c -o ks3
+#1498118602
+./ks3
+#1498118605
+nano sets.c
+#1498118658
+gcc sets.c -o ks3
+#1498118659
+./ks3
+#1498118661
+nano sets.c
+#1498118746
+gcc sets.c -o ks3
+#1498118753
+nano sets.c
+#1498118822
+gcc sets.c -o ks3
+#1498118826
+./ks3
+#1498118844
+nano sets.c
+#1498118863
+cd ..
+#1498118876
+cd instsys
+#1498118958
+gdb reg
+#1498119168
+gdb bomb
+#1498119373
+clear
+#1498119376
+gdb bomb
+#1498119824
+clear
+#1498119825
+gdb bomb
+#1498119854
+nano bomb
+#1498119861
+gdb bomb
+#1498119867
+clear
+#1498120880
+cd exam
+#1498120884
+cd nums
+#1498120911
+./ks1
+#1498120914
+cd ..
+#1498120924
+cd logical
+#1498120927
+./ks2
+#1498120932
+cd ..
+#1498120938
+cd logical
+#1498120940
+./ks3
+#1498120943
+cd ..
+#1498120953
+cd instsys
+#1498120960
+clear
+#1498120967
+gdb bomb
+#1498121222
+nano bomb.c
+#1498121416
+gdb bomb
+#1498121471
+nano bomb.c
+#1498121495
+gdb bomb
+#1498121509
+nano bomb.c
+#1498121517
+gdb bomb
+#1498121694
+./bomb
+#1498121900
+./ks3
+#1498121906
+cd ..
+#1498121917
+cd logical
+#1498121920
+./ks2
+#1498121924
+./ks3
+#1498121938
+nano bits.c
+#1498121947
+nano sets.c
+#1498121978
+gcc sets.c -o ks2
+#1498121980
+./ks2
+#1498121984
+nano sets.c
+#1498122012
+gcc sets.c -o ks2
+#1498122013
+./ks2

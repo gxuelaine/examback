@@ -1,0 +1,90 @@
+#1498115031
+cp -r /home/pcc/exam ~
+#1498116217
+cd exam
+#1498116268
+cd ~
+#1498116292
+cd nums
+#1498116441
+cd exam
+#1498116448
+cd nums
+#1498116830
+shift.c
+#1498116935
+nano shift.c
+#1498117763
+cd ~
+#1498117769
+cd exam
+#1498117777
+cd logical
+#1498117786
+nano bits.c
+#1498118084
+cd..
+#1498118088
+cd ~
+#1498118093
+cd exam
+#1498118104
+cd instssys
+#1498118111
+cd instsys
+#1498118183
+gdb reg
+#1498118435
+gdb bomb
+#1498118846
+nano bomb.c
+#1498118889
+gdb bomb
+#1498118912
+cd ~
+#1498118917
+cd exam
+#1498118928
+cd logical
+#1498118938
+nano sets.c
+#1498119090
+nano bits.c
+#1498119468
+cd ..
+#1498119477
+cd instsys
+#1498119487
+gdb reg
+#1498119569
+info registers
+#1498119647
+cd exam
+#1498119668
+cd nums
+#1498119675
+nano shift.c
+#1498119687
+cd ..
+#1498119758
+cd nums
+#1498119774
+gcc shift.c
+#1498119829
+gcc shift.c -o b1
+#1498119850
+cd ..
+#1498119863
+cd srt.c
+#1498119868
+cd set.c
+#1498119877
+cd logical
+#1498119886
+nano sets.c
+#1498119917
+gcc sets.c -o b1
+#1498120019
+cd ..
+#1498120035
+cd instsys

@@ -1,0 +1,230 @@
+#1498114995
+cp -r /home/pcc/exam ~
+#1498115036
+cp -r /home/pcc/exam~
+#1498115046
+cp -r /home/pcc/exam ~
+#1498116205
+cd
+#1498116209
+cd exam
+#1498116473
+cd nums
+#1498116481
+cd shift.c
+#1498116537
+cat README
+#1498116541
+cat NUM
+#1498116545
+cat num
+#1498116548
+cat nums
+#1498116590
+ls
+#1498116619
+./shift
+#1498116625
+./shift.c
+#1498116646
+./dlc shift.c
+#1498116649
+cd
+#1498116652
+ls
+#1498116658
+cd exam
+#1498116659
+ls
+#1498116665
+cd nums
+#1498116770
+ls
+#1498116777
+./shift.c
+#1498116791
+gcc -o shift shift.c
+#1498116795
+./shift.c
+#1498116843
+nano shift
+#1498116876
+nano
+#1498116891
+nano shift.c
+#1498117023
+gcc -o shift shift.c
+#1498117026
+./shift.c
+#1498117031
+nano shift.c
+#1498117044
+gcc -o shift shift.c
+#1498117046
+./shift.c
+#1498117051
+nano shift.c
+#1498117079
+gcc -o shift shift.c
+#1498117081
+./shift.c
+#1498117087
+nano shift.c
+#1498117158
+./shift.c
+#1498117164
+gcc -o shift shift.c
+#1498117180
+./dlc shift.c
+#1498117286
+ls
+#1498117293
+cd
+#1498117305
+cp -r /home/pcc/exam ~
+#1498117307
+ls
+#1498117310
+cd exam
+#1498117312
+ls
+#1498117316
+cd nums
+#1498117318
+ls
+#1498117326
+nano shift
+#1498117331
+nano shift.c
+#1498117357
+gcc shift.c -o shift
+#1498117360
+./shift
+#1498117378
+nano shift.c
+#1498117421
+./shift
+#1498117422
+nano shift.c
+#1498117428
+gcc shift.c -o shift
+#1498117431
+./shift
+#1498117439
+nano shift.c
+#1498117833
+./shift
+#1498117838
+gcc shift.c -o shift
+#1498117840
+./shift
+#1498117911
+ls
+#1498117918
+cd
+#1498117922
+cd exam
+#1498117923
+ls
+#1498117928
+cd logical
+#1498117929
+ls
+#1498117937
+nano bits.c
+#1498118209
+gcc bits.c -o bits
+#1498118217
+./bits
+#1498118223
+nano bits.c
+#1498118629
+gcc bits.c -o bits
+#1498118631
+./bits
+#1498118640
+nano sets.c
+#1498118800
+gcc sets.c -o sets
+#1498118805
+./sets
+#1498118866
+nano sets.c
+#1498118890
+gcc sets.c -o sets
+#1498118891
+./sets
+#1498118921
+nano sets.c
+#1498119072
+gcc sets.c -o sets
+#1498119073
+./sets
+#1498119091
+nano sets.c
+#1498119243
+gcc sets.c -o sets
+#1498119245
+./sets
+#1498119252
+nano sets.c
+#1498119327
+gcc sets.c -o sets
+#1498119328
+./sets
+#1498119330
+nano sets.c
+#1498119477
+gcc sets.c -o sets
+#1498119478
+./sets
+#1498119486
+cd
+#1498119493
+cd exam
+#1498119494
+ls
+#1498119499
+cd instsys
+#1498119510
+gdb reg
+#1498120229
+ls
+#1498120232
+cd exam
+#1498120236
+ls
+#1498120242
+cd instsys
+#1498120244
+ls
+#1498120265
+gdb bomb
+#1498120425
+cd exam
+#1498120426
+ls
+#1498120429
+cd logical
+#1498120431
+ls
+#1498120437
+cd
+#1498120439
+ls
+#1498120442
+cd exam
+#1498120447
+cd instays
+#1498120454
+cd instsys
+#1498120456
+ls
+#1498121885
+cd exam
+#1498121889
+ls
+#1498121892
+cd instsys
+#1498121897
+gdb bomb

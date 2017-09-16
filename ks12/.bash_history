@@ -1,0 +1,172 @@
+#1498114901
+ls
+#1498114927
+cp -r /home/pcc/exam ~
+#1498116127
+ls
+#1498116143
+nano exam
+#1498116171
+nano exam.c
+#1498116187
+nano exam
+#1498116233
+cd exam
+#1498116234
+ls
+#1498116276
+nano nums
+#1498116283
+nano nums.c
+#1498116314
+cd nums
+#1498116316
+ls
+#1498116328
+nano shift.c
+#1498116663
+cd logical
+#1498116753
+cp -r /home/pcc/exam ~
+#1498116763
+cd exam
+#1498116774
+cd nums
+#1498116775
+ls
+#1498116781
+nano shift.c
+#1498116947
+cd ..
+#1498116952
+logical
+#1498116959
+cd logical
+#1498116961
+ls
+#1498116967
+nano bits.c
+#1498117131
+cd ..
+#1498117139
+cd logical
+#1498117144
+nano sets.c
+#1498117361
+nano bits.c
+#1498117380
+cd ..
+#1498117384
+nano nums
+#1498117393
+cd nums
+#1498117397
+nano shift.c
+#1498117436
+cd ..
+#1498117440
+instsys
+#1498117446
+cd instsys
+#1498117447
+ls
+#1498117452
+nano bomb
+#1498117505
+./bomb
+#1498117537
+./bomb.c
+#1498117539
+./bomb
+#1498117594
+gdb bomb
+#1498117865
+cd exam
+#1498117867
+ls
+#1498117942
+gdb reg
+#1498118026
+cd exam
+#1498118038
+cd instsys
+#1498118044
+gdb reg
+#1498118149
+cd exam
+#1498118155
+cd instsys
+#1498118161
+gdb bomb
+#1498118755
+cd exam
+#1498118781
+cd instsys
+#1498118797
+nano bomb.c
+#1498118851
+ls
+#1498118855
+nano reg
+#1498118859
+nano bomb
+#1498118879
+gdb reg
+#1498118977
+cd exam
+#1498118985
+cd instsys
+#1498120580
+cd exam
+#1498120587
+cd nums
+#1498120589
+ls
+#1498120593
+nano shift.c
+#1498120600
+cd ..
+#1498120607
+cd logical
+#1498120610
+ls
+#1498120614
+nano bits.c
+#1498120624
+nano sets.c
+#1498120632
+cd ..
+#1498120642
+cd instsys
+#1498120672
+./bomb
+#1498120687
+./bomb defuser.txt
+#1498120708
+nano bomb.c
+#1498120770
+gdb bomb
+#1498120895
+cd exam
+#1498120900
+cd instsys
+#1498120904
+gdb
+#1498120928
+cd exam
+#1498120933
+cd instsys
+#1498120944
+gdb bomb
+#1498121585
+cd exam
+#1498121592
+cd instsys
+#1498121604
+gdb reg
+#1498121835
+cd exam
+#1498121843
+cd instsys
+#1498121850
+gdb reg
